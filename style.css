@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(#0b3d91, #0a1f44);
+    color: white;
+    font-family: Arial;
+}
+
+.container {
+    max-width: 600px;
+    margin: 60px auto;
+    background: rgba(255,255,255,0.1);
+    padding: 30px;
+    border-radius: 20px;
+}
+input, button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+}
+button {
+    background: #e53935;
+    color: white;
+    border: none;
+}
